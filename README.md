@@ -1,7 +1,7 @@
 ### Hi there :)
 Welcome to my Github profile!
-This readme is subject to change in the future.
 
+### Contact:
 📫 **contact@erarnitox.de**
 
 If you want, you can check out my website:
