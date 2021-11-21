@@ -6,7 +6,7 @@ Welcome to my Github profile!
 
 If you want, you can check out my website:
 
-[![Website](https://img.shields.io/website?label=erarnitox.de&style=for-the-badge&url=https%3A%2F%2Ferarnitox.de)](https://erarnitox.de)
+[![Website](https://img.shields.io/website?label=erarnitox.de&style=for-the-badge&url=https%3A%2F%2Ferarnitox.de)](https://www.erarnitox.de)
 
 
 ## 📊 My Github Stats
