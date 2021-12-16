@@ -3,8 +3,11 @@ Welcome to my Github profile!
 
 ### Contact:
 📫 **contact@erarnitox.de** (E-mail)
+
 💬 **erarnitox@dropsoft.org** (XMPP)
+
 **Discord:**
+
 [![Discord](https://badgen.net/discord/online-members/89K69wtz8F)](https://discord.gg/89K69wtz8F)
 
 If you want, you can check out my website as well:
