@@ -14,7 +14,6 @@ If you want, you can check out my website as well:
 
 [![Website](https://img.shields.io/website?label=erarnitox.de&style=for-the-badge&url=https%3A%2F%2Ferarnitox.de)](https://www.erarnitox.de)
 
-[![Discord](https://badgen.net/discord/online-members/89K69wtz8F)](https://discord.gg/89K69wtz8F)
 
 ## 📊 My Github Stats
 
