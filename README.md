@@ -1,4 +1,4 @@
-### Hi there :)
+### Hello There! :tiger:
 Welcome to my Github profile!
 
 ### Contact:
