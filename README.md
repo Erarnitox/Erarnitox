@@ -1,18 +1,21 @@
 ### Hello There! :tiger:
-Welcome to my Github profile!
+I'm a passionate developer pramarily working with C++.
+Please take a look around! And also feel free to contact
+me anytime! :)
 
-### Contact:
-📫 **contact@erarnitox.de** (E-mail)
-
-💬 **erarnitox@dropsoft.org** (XMPP)
+##### Contact:
+- 📫 **contact@erarnitox.de** (E-mail)
+- 💬 **erarnitox@dropsoft.org** (XMPP)
 
 **Discord:**
-
 [![Discord](https://badgen.net/discord/online-members/89K69wtz8F)](https://discord.gg/89K69wtz8F)
 
-If you want, you can check out my website as well:
+If you want, you can check out my website for more information about me:
 
 [![Website](https://img.shields.io/website?label=erarnitox.de&style=for-the-badge&url=https%3A%2F%2Ferarnitox.de)](https://www.erarnitox.de)
+
+
+---
 
 
 ## 📊 My Github Stats
