@@ -1,14 +1,12 @@
 ### Hello There! :tiger:
-I'm a passionate developer pramarily working with C++.
-Please take a look around! And also feel free to contact
-me anytime! :)
+I'm a passionate developer primarily working with C++.
+
+Please take a look around! And feel free to contact me anytime! :)
 
 ##### Contact:
 - 📫 **contact@erarnitox.de** (E-mail)
 - 💬 **erarnitox@dropsoft.org** (XMPP)
-
-**Discord:**
-[![Discord](https://badgen.net/discord/online-members/89K69wtz8F)](https://discord.gg/89K69wtz8F)
+- 💧 **Discord:** [![Discord](https://badgen.net/discord/online-members/89K69wtz8F)](https://discord.gg/89K69wtz8F)
 
 If you want, you can check out my website for more information about me:
 
