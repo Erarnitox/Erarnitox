@@ -24,7 +24,7 @@
 
 ---
 
-<img alt="Droplet" src="droplet.png" align="left" style="padding-bottom:2em" width="200px"/>
+<img alt="Droplet" src="droplet.png" align="left" height="200px"/>
 
 ## **💧 About Dropsoft:**
 As said Dropsoft is a small hacking community.
@@ -32,7 +32,7 @@ As said Dropsoft is a small hacking community.
 [![Website](https://img.shields.io/website?label=dropsoft.org&style=for-the-badge&url=https://dropsoft.org)](https://www.dropsoft.org)
 
 [![Discord](https://badgen.net/discord/online-members/89K69wtz8F)](https://discord.gg/89K69wtz8F)
-
+<br><br>
 ### **We do:**
 - have **fun**
 - participate in **CTF events**
