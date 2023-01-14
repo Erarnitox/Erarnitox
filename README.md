@@ -55,7 +55,7 @@ As said Dropsoft is a small hacking community.
 
 If you want to say: "Thank you!" you can consider donating a small amount
 
-<img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
+<a href="https://liberapay.com/Erarnitox/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 ---
 
