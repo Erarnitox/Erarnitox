@@ -52,7 +52,9 @@ As said Dropsoft is a small hacking community.
 ---
 
 ## **💰 Donate:**
+
 If you want to say: "Thank you!" you can consider donating a small amount
+
 <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
 ---
 
