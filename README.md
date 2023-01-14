@@ -24,7 +24,7 @@
 
 ---
 
-<img alt="Droplet" src="Icon.png" align="left" height="200px"/>
+<img alt="Icon" src="Icon-Transperent-PNG.png" align="left" height="200px"/>
 
 ## **💧 About Dropsoft:**
 As said Dropsoft is a small hacking community.
