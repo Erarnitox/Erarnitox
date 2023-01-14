@@ -24,7 +24,7 @@
 
 ---
 
-<img alt="Droplet" src="droplet.png" align="left" height="200px"/>
+<img alt="Droplet" src="Icon.png" align="left" height="200px"/>
 
 ## **💧 About Dropsoft:**
 As said Dropsoft is a small hacking community.
@@ -51,13 +51,9 @@ As said Dropsoft is a small hacking community.
 
 ---
 
-## **📊 My Github Stats:**
-
-  <br/>
-    <a href="https://github.com/Erarnitox/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Erarnitox&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Erarnitox/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erarnitox&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
+## **💰 Donate:**
+If you want to say: "Thank you!" you can consider donating a small amount
+<img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
 ---
 
 ## **🥇 Things by me:**
