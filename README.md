@@ -31,7 +31,7 @@ As said Dropsoft is a small hacking community.
 
 [![Website](https://img.shields.io/website?label=dropsoft.org&style=for-the-badge&url=https://dropsoft.org)](https://www.dropsoft.org)
 
-[![Discord](https://badgen.net/discord/online-members/89K69wtz8F)](https://discord.gg/89K69wtz8F)
+[![Discord](https://dcbadge.vercel.app/api/server/nvnna33gVs)](https://discord.gg/nvnna33gVs)
 <br><br>
 ### **We do:**
 - have **fun**
@@ -48,14 +48,6 @@ As said Dropsoft is a small hacking community.
 - 💬 **Erarnitox#8910** (Discord)
 - 💬 **@erarnitox:dropsoft.org** (Matrix)
 - 🔐 **PGP KEY ON MY WEBSITE!** (erarnitox.de)
-
----
-
-## **💰 Donate:**
-
-If you want to say: "Thank you!" you can consider donating a small amount
-
-<a href="https://liberapay.com/Erarnitox/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 ---
 
