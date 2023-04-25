@@ -1,8 +1,8 @@
 # **Hello There!** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![Website](https://img.shields.io/website?label=erarnitox.de&style=for-the-badge&url=https%3A%2F%2Ferarnitox.de)](https://www.erarnitox.de)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCLoOPxAcvIbIGd9eWmNRtPg?label=Erarnitox&logo=youtube&logoColor=red&style=for-the-badge](https://img.shields.io/badge/YouTube-Erarnitox-red?style=for-the-badge&logo=youtube))](https://www.youtube.com/channel/UCLoOPxAcvIbIGd9eWmNRtPg)
-[![Twitter](https://img.shields.io/twitter/follow/erarnitox?color=blue&label=%40erarnitox&logo=twitter&style=for-the-badge)](https://twitter.com/Erarnitox)
+[![YouTube](https://img.shields.io/badge/YouTube-Erarnitox-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCLoOPxAcvIbIGd9eWmNRtPg)
+[![Twitter](https://img.shields.io/badge/Twitter-@erarnitox-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Erarnitox)
 
 ---
 
