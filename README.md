@@ -31,7 +31,7 @@ As said Dropsoft is a small hacking community.
 
 [![Website](https://img.shields.io/website?label=dropsoft.org&style=for-the-badge&url=https://dropsoft.org)](https://www.dropsoft.org)
 
-[![Discord](https://dcbadge.vercel.app/api/server/nvnna33gVs)](https://discord.dropsoft.org)
+[![Discord](https://dcbadge.vercel.app/api/server/T3YvMPkZEd)](https://discord.dropsoft.org)
 <br><br>
 ### **We do:**
 - have **fun**
