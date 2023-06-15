@@ -44,7 +44,7 @@ As said Dropsoft is a small hacking community.
 
 ## **Contact Me:**
 - 📫 **contact@erarnitox.de** (E-mail)
-- 💬 **Erarnitox#8910** (Discord)
+- 💬 **@erarnitox** (Discord)
 
 ---
 
