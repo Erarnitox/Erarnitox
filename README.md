@@ -1,11 +1,8 @@
-![Github_Banner](github_banner.png)
-
 # **Hello There!** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
 [![Website](https://img.shields.io/website?label=erarnitox.de&style=for-the-badge&url=https%3A%2F%2Ferarnitox.de)](https://www.erarnitox.de)
 [![YouTube](https://img.shields.io/badge/YouTube-Erarnitox-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCLoOPxAcvIbIGd9eWmNRtPg)
 [![Twitter](https://img.shields.io/badge/Twitter-@erarnitox-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Erarnitox)
-
+![Github_Banner](github_banner.png)
 ---
 
 <img alt="Erarniox" src="erarnitox.png" align="left" style="padding:2em" width="150px"/>
@@ -56,3 +53,11 @@ As said Dropsoft is a small hacking community.
 - [**PlanB Multiplayer FPS**](https://erarnitox.itch.io/planb)
 - [**Game Hacking Fundamentals Book**](https://guidedhacking.com/threads/game-hacking-fundamentals-the-game-hacking-book.16550/)
 - **Some other stuff... Some you can find here on this github account :)**
+
+---
+## **Languages Used:**
+![erarnitox's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erarnitox&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+## **Other Stats:**
+![erarnitox's Stats](https://github-readme-stats.vercel.app/api?username=erarnitox&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![erarnitox's Streak](https://github-readme-streak-stats.herokuapp.com/?user=erarnitox&theme=tokyonight&hide_border=false)
