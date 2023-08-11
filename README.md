@@ -49,10 +49,10 @@ As said Dropsoft is a small hacking community.
 ---
 
 ## **🥇 Things by me:**
-- [**MMO Hacking Bootcamp**](https://guidedhacking.com/threads/how-to-make-an-mmo-bot-mmorpg-bot-automation.15173/)
+- [**MMO Hacking Bootcamp**](https://guidedhacking.com/threads/how-to-make-an-mmo-bot-mmorpg-bot-automation.15173/?referralcode=JM5dz)
 - [**Xeno Sandbox Generator for Unity**](https://assetstore.unity.com/packages/tools/terrain/xenosandboxgenerator-132459)
 - [**PlanB Multiplayer FPS**](https://erarnitox.itch.io/planb)
-- [**Game Hacking Fundamentals Book**](https://guidedhacking.com/threads/game-hacking-fundamentals-the-game-hacking-book.16550/)
+- [**Game Hacking Fundamentals Book**](https://guidedhacking.com/threads/game-hacking-fundamentals-the-game-hacking-book.16550/?referralcode=JM5dz)
 - **Some other stuff... Some you can find here on this github account :)**
 
 ---
