@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/website?label=erarnitox.de&style=for-the-badge&url=https%3A%2F%2Ferarnitox.de)](https://www.erarnitox.de)
 [![YouTube](https://img.shields.io/badge/YouTube-Erarnitox-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCLoOPxAcvIbIGd9eWmNRtPg)
 [![Twitter](https://img.shields.io/badge/Twitter-@erarnitox-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Erarnitox)
-[![GuidedHacking - Erarnitox](https://img.shields.io/badge/GuidedHacking-Erarnitox-cfdfff?style=for-the-badge&logo=https%3A%2F%2Fguidedhacking.com%2Fdata%2Fresource_icons%2F0%2F319.jpg%3F1608556414)](https://guidedhacking.com/?referralcode=JM5dz)
+[![GuidedHacking](https://img.shields.io/badge/GuidedHacking-Erarnitox-cfdfff?style=for-the-badge&logo=Counter-Strike)](https://guidedhacking.com/?referralcode=JM5dz)
 ![Github_Banner](github_banner.png)
 ---
 
