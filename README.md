@@ -19,27 +19,6 @@
 
   I __love__ the freedom and performance C++ gives the developer using it.
 
-  I'm also founder and proud member of **DropSoft**, a small
-  hacking community.
-
----
-
-<img alt="Icon" src="Icon-Transperent-PNG.png" align="left" height="200px"/>
-
-## **💧 About Dropsoft:**
-As said Dropsoft is a small hacking community.
-
-[![Website](https://img.shields.io/website?label=dropsoft.org&style=for-the-badge&url=https://dropsoft.org)](https://www.dropsoft.org)
-
-[![Discord](https://dcbadge.vercel.app/api/server/T3YvMPkZEd)](https://discord.dropsoft.org)
-<br><br>
-### **We do:**
-- have **fun**
-- participate in **CTF events**
-- write **software**
-- **help** and **inspire** each other
-- welcome any **creative** person to join us
-
 ---
 
 ## **Contact Me:**
