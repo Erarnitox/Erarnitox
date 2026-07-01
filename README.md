@@ -33,8 +33,8 @@
 - **Some other stuff... Some you can find here on this github account :)**
 
 ---
-## **Languages Used:**
-![erarnitox's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erarnitox&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+## **Languages Used:*
+![Top Languages](https://ghstats.dev/api/langs?username=erarnitox&theme=dracula&border_radius=1&max_langs=12)
 
 ## **Other Stats:**
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=erarnitox&theme=dracula&border_radius=1&size=compact)
