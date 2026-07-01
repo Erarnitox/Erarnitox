@@ -37,5 +37,4 @@
 ![erarnitox's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erarnitox&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## **Other Stats:**
-![erarnitox's Stats](https://github-readme-stats.vercel.app/api?username=erarnitox&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=erarnitox&theme=dracula&border_radius=1&size=compact)
