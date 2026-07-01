@@ -33,7 +33,7 @@
 - **Some other stuff... Some you can find here on this github account :)**
 
 ---
-## **Languages Used:*
+## **Languages Used:**
 ![Top Languages](https://ghstats.dev/api/langs?username=erarnitox&theme=dracula&border_radius=1&max_langs=12)
 
 ## **Other Stats:**
